@@ -1,0 +1,36 @@
+{
+  "folder": [
+    {
+      "title": "folder1",
+      "subfolder": [
+        {
+          "title": "folder1-1",
+          "subfolder": [],
+          "url": ["dill.com", "dill.com"]
+        },
+        {
+          "title": "folder1-2",
+          "subfolder": [],
+          "url": ["dill.com", "dill.com"]
+        }
+      ],
+      "url": ["dill.com", "dill.com"]
+    },
+    {
+      "title": "folder2",
+      "subfolder": [
+        {
+          "title": "folder2-1",
+          "subfolder": [],
+          "url": ["dill.com", "dill.com"]
+        },
+        {
+          "title": "folder2-2",
+          "subfolder": [],
+          "url": ["dill.com", "dill.com"]
+        }
+      ],
+      "url": ["dill.com", "dill.com"]
+    }
+  ]
+}
