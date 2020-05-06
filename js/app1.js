@@ -150,9 +150,9 @@ class View {
   }
 
   getFolderImage() {
-    return `<img src="../assets/folder-icon.png" style="width: 20px;" />`;
+    return `<img src="assets/folder-icon.png" style="width: 20px;" />`;
   }
-
+  ß;
   getURLs(urls) {
     const html = urls
       .map((item, idx) => {
